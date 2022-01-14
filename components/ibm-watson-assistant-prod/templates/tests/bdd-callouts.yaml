@@ -1,1 +1,0 @@
-{{ template "assistant.bdd" (list . "@callouts") }}

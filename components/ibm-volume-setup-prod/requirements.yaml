@@ -1,4 +1,0 @@
-dependencies:
-- name: zenhelper
-  repository: "file://../../charts/zenhelper"
-  version: "~0.1.5"

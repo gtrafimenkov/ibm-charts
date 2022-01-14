@@ -1,3 +1,0 @@
-images:
-- image: wkc-glossary-service:${BM_APP_VERSION}
-- image: wkc-init-container:1.0.59

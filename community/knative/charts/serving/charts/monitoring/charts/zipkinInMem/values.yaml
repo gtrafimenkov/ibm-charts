@@ -1,3 +1,0 @@
-zipkin:
-  image: docker.io/openzipkin/zipkin:latest
-  replicas: 1

@@ -1,5 +1,0 @@
-{{- if (include "icam.isMCM" .) -}}
-{{- include "icam.notes.b" . -}}
-{{- else -}}
-{{- include "icam.notes.a" . -}}
-{{- end -}}

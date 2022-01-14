@@ -1,3 +1,0 @@
-{{- include "sch.config.init" (list . "ibm-mq.sch.chart.config.values") }}
-The MQ connection information for clients inside the cluster is as follows:
-  {{ include "sch.names.fullName" (list .) }}.{{ .Release.Namespace }}.svc:1414

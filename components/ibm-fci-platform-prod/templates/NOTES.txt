@@ -1,3 +1,0 @@
-Get the IBM FCI URL by running this command:
-  echo https://$(kubectl get routes --namespace {{ .Release.Namespace }} {{ .Release.Name }}-common-ui-nginx -o jsonpath="{.spec.host}")
-

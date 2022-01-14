@@ -1,7 +1,0 @@
-Makefile
-.travis.yml
-.git
-.gitmodules
-cv-tests
-.DS_Store
-kafka.server.properties

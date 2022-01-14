@@ -1,5 +1,0 @@
-# microservice specific information
-portal-ml-dl:
-  image:
-    repository: portal-ml-dl
-    pullPolicy: IfNotPresent

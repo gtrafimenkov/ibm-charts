@@ -1,3 +1,0 @@
-replicaCount: 1
-image:
-  repository: "mq:1.0.0"

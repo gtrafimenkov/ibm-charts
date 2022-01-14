@@ -1,5 +1,0 @@
-dependencies:
-  - name: ibm-sch
-    version: "^1.2.7"
-    alias: sch
-    condition: global.sch.enabled
