@@ -23,7 +23,6 @@ keywords:
 - IKS
 - RHOCP
 - Other
-kubeVersion: '>=1.11'
 maintainers:
 - name: IBM
 name: ibm-connect-direct
