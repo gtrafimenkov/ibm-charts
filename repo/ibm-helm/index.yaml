@@ -1,0 +1,39 @@
+apiVersion: v1
+entries:
+  ibm-connect-direct:
+  - apiVersion: v2
+    appVersion: 6.2.0.1_ifix018
+    created: "2022-01-14T17:38:59.816539348+03:00"
+    dependencies:
+    - alias: sch
+      name: ibm-sch
+      repository: '@sch'
+      version: 1.2.18
+    description: 'A Helm chart to deploy IBM Connect:Direct for Unix on a containerized
+      platform  Documentation For additional details regarding install parameters
+      check https://ibm.biz/Bdfgni  License By installing this product you accept
+      the license terms https://ibm.biz/BdfgnZ '
+    digest: 0a97ce786ddf09be50570d11e7536a96421c0b38b9864fd0e8d54133c25f2208
+    home: https://ibm.biz/BdfgnY
+    icon: https://ibm.biz/Bdfgn2
+    keywords:
+    - C:D
+    - mft
+    - cdu
+    - connect direct
+    - amd64
+    - DevOps
+    - Commercial
+    - Limited
+    - IKS
+    - RHOCP
+    - Other
+    kubeVersion: '>=1.11'
+    maintainers:
+    - name: IBM
+    name: ibm-connect-direct
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/gtrafimenkov/ibm-charts/master/repo/ibm-helm/ibm-connect-direct-1.2.1.tgz
+    version: 1.2.1
+generated: "2022-01-14T17:38:59.810485831+03:00"
